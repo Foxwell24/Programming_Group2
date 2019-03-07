@@ -6,18 +6,20 @@ namespace Hello_World {
 		
 		public static void Main(string[] args) {
 						
-			string message;
-			string name;
 			int num1;
 			int num2;
+			string inputStorage1;
+			string inputStorage2;
 			
-//			message = "Hello";
-//			name = Console.ReadLine();
-			num1 = 10;
-			num2 = 20;
+			inputStorage1 = Console.ReadLine();
+			inputStorage2 = Console.ReadLine();
 			
-//			Console.WriteLine(message + " " + name);
-			Console.WriteLine(num1 + num2);
+			num1 = int.Parse(inputStorage1);
+			num2 = int.Parse(inputStorage2);
+			
+			int output = num1 + num2;
+			
+			Console.WriteLine(output);
 			Console.ReadKey(true);
 		}
 	}
