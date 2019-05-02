@@ -1,0 +1,11 @@
+C:\Dev\Github\Programming_Group2\Task\Lists_2\obj\Debug\netcoreapp2.2\Lists_2.csprojAssemblyReference.cache
+C:\Dev\Github\Programming_Group2\Task\Lists_2\obj\Debug\netcoreapp2.2\Lists_2.csproj.CoreCompileInputs.cache
+C:\Dev\Github\Programming_Group2\Task\Lists_2\obj\Debug\netcoreapp2.2\Lists_2.AssemblyInfoInputs.cache
+C:\Dev\Github\Programming_Group2\Task\Lists_2\obj\Debug\netcoreapp2.2\Lists_2.AssemblyInfo.cs
+C:\Dev\Github\Programming_Group2\Task\Lists_2\bin\Debug\netcoreapp2.2\Lists_2.deps.json
+C:\Dev\Github\Programming_Group2\Task\Lists_2\bin\Debug\netcoreapp2.2\Lists_2.runtimeconfig.json
+C:\Dev\Github\Programming_Group2\Task\Lists_2\bin\Debug\netcoreapp2.2\Lists_2.runtimeconfig.dev.json
+C:\Dev\Github\Programming_Group2\Task\Lists_2\bin\Debug\netcoreapp2.2\Lists_2.dll
+C:\Dev\Github\Programming_Group2\Task\Lists_2\bin\Debug\netcoreapp2.2\Lists_2.pdb
+C:\Dev\Github\Programming_Group2\Task\Lists_2\obj\Debug\netcoreapp2.2\Lists_2.dll
+C:\Dev\Github\Programming_Group2\Task\Lists_2\obj\Debug\netcoreapp2.2\Lists_2.pdb
