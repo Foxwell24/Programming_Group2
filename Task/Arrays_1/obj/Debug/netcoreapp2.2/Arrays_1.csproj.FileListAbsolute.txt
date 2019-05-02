@@ -1,0 +1,11 @@
+C:\Dev\Github\Programming_Group2\Task\Arrays_1\bin\Debug\netcoreapp2.2\Arrays_1.deps.json
+C:\Dev\Github\Programming_Group2\Task\Arrays_1\bin\Debug\netcoreapp2.2\Arrays_1.runtimeconfig.json
+C:\Dev\Github\Programming_Group2\Task\Arrays_1\bin\Debug\netcoreapp2.2\Arrays_1.runtimeconfig.dev.json
+C:\Dev\Github\Programming_Group2\Task\Arrays_1\bin\Debug\netcoreapp2.2\Arrays_1.dll
+C:\Dev\Github\Programming_Group2\Task\Arrays_1\bin\Debug\netcoreapp2.2\Arrays_1.pdb
+C:\Dev\Github\Programming_Group2\Task\Arrays_1\obj\Debug\netcoreapp2.2\Arrays_1.csprojAssemblyReference.cache
+C:\Dev\Github\Programming_Group2\Task\Arrays_1\obj\Debug\netcoreapp2.2\Arrays_1.csproj.CoreCompileInputs.cache
+C:\Dev\Github\Programming_Group2\Task\Arrays_1\obj\Debug\netcoreapp2.2\Arrays_1.AssemblyInfoInputs.cache
+C:\Dev\Github\Programming_Group2\Task\Arrays_1\obj\Debug\netcoreapp2.2\Arrays_1.AssemblyInfo.cs
+C:\Dev\Github\Programming_Group2\Task\Arrays_1\obj\Debug\netcoreapp2.2\Arrays_1.dll
+C:\Dev\Github\Programming_Group2\Task\Arrays_1\obj\Debug\netcoreapp2.2\Arrays_1.pdb

@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\Github\\Programming_Group2\\Task\\ArrayLists\\bb.csproj",
-      "projectName": "bb",
-      "projectPath": "C:\\Dev\\Github\\Programming_Group2\\Task\\ArrayLists\\bb.csproj",
+      "projectUniqueName": "C:\\Dev\\Github\\Programming_Group2\\Task\\Arrays_1\\Arrays_1.csproj",
+      "projectName": "Arrays_1",
+      "projectPath": "C:\\Dev\\Github\\Programming_Group2\\Task\\Arrays_1\\Arrays_1.csproj",
       "packagesPath": "C:\\Users\\kaefo\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\Github\\Programming_Group2\\Task\\ArrayLists\\obj\\",
+      "outputPath": "C:\\Dev\\Github\\Programming_Group2\\Task\\Arrays_1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
