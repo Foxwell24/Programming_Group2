@@ -1,0 +1,11 @@
+C:\Dev\Github\Programming_Group2\Task\ArrayLists\bin\Debug\netcoreapp2.2\ArrayLists.deps.json
+C:\Dev\Github\Programming_Group2\Task\ArrayLists\bin\Debug\netcoreapp2.2\ArrayLists.runtimeconfig.json
+C:\Dev\Github\Programming_Group2\Task\ArrayLists\bin\Debug\netcoreapp2.2\ArrayLists.runtimeconfig.dev.json
+C:\Dev\Github\Programming_Group2\Task\ArrayLists\bin\Debug\netcoreapp2.2\ArrayLists.dll
+C:\Dev\Github\Programming_Group2\Task\ArrayLists\bin\Debug\netcoreapp2.2\ArrayLists.pdb
+C:\Dev\Github\Programming_Group2\Task\ArrayLists\obj\Debug\netcoreapp2.2\ArrayLists.csprojAssemblyReference.cache
+C:\Dev\Github\Programming_Group2\Task\ArrayLists\obj\Debug\netcoreapp2.2\ArrayLists.csproj.CoreCompileInputs.cache
+C:\Dev\Github\Programming_Group2\Task\ArrayLists\obj\Debug\netcoreapp2.2\ArrayLists.AssemblyInfoInputs.cache
+C:\Dev\Github\Programming_Group2\Task\ArrayLists\obj\Debug\netcoreapp2.2\ArrayLists.AssemblyInfo.cs
+C:\Dev\Github\Programming_Group2\Task\ArrayLists\obj\Debug\netcoreapp2.2\ArrayLists.dll
+C:\Dev\Github\Programming_Group2\Task\ArrayLists\obj\Debug\netcoreapp2.2\ArrayLists.pdb
