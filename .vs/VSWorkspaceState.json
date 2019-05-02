@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
+    "",
     "\\Task",
+    "\\Task\\Lists",
     "\\Task\\Lists_2"
   ],
-  "SelectedNode": "\\Task\\Lists_2\\Program.cs",
+  "SelectedNode": "\\Task\\Lists\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
