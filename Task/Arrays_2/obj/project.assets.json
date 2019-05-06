@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\102675853\\Documents\\Programming_Group2\\Task\\Arrays_2\\Arrays_2.csproj",
+      "projectUniqueName": "C:\\Users\\102675853\\Documents\\GitHub\\Programming_Group2\\Task\\Arrays_2\\Arrays_2.csproj",
       "projectName": "Arrays_2",
-      "projectPath": "C:\\Users\\102675853\\Documents\\Programming_Group2\\Task\\Arrays_2\\Arrays_2.csproj",
+      "projectPath": "C:\\Users\\102675853\\Documents\\GitHub\\Programming_Group2\\Task\\Arrays_2\\Arrays_2.csproj",
       "packagesPath": "C:\\Users\\102675853\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\102675853\\Documents\\Programming_Group2\\Task\\Arrays_2\\obj\\",
+      "outputPath": "C:\\Users\\102675853\\Documents\\GitHub\\Programming_Group2\\Task\\Arrays_2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
