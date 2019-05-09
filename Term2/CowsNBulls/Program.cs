@@ -22,10 +22,13 @@ namespace CowsNBulls
                 int bulls = 0;
                 int wrong = 0;
 
-                Console.WriteLine("Guess the 4 numbers");
+                Console.WriteLine("How many numbers? [0->10]");
+                int amount = int.Parse(Console.ReadLine());
+
+                Console.WriteLine("Guess the " + amount + " numbers");
                 Globals.ForNumbers();
 
-                while (cows < 4)
+                while (cows < amount)
                 {
                     cows = 0;
                     bulls = 0;
@@ -35,7 +38,7 @@ namespace CowsNBulls
                     buttonsUsingString.Clear();
 
                     int pressed = 0;
-                    while (pressed < 4)
+                    while (pressed < amount)
                     {
                         var v = Console.ReadKey();
                         buttonsUsingKey.Add(v);
@@ -80,35 +83,83 @@ namespace CowsNBulls
             numbers.Clear();
 
             int i1 = rnd.Next(0, 10);
+            numbers.Add(i1);
 
             int i2 = rnd.Next(0, 10);
-            while(i2 == i1)
+            while (numbers.Contains(i2))
             {
                 i2 = rnd.Next(0, 10);
             }
+            numbers.Add(i2);
 
             int i3 = rnd.Next(0, 10);
-            while (i3 == i1 || i3 == i2)
+            while (numbers.Contains(i3))
             {
                 i3 = rnd.Next(0, 10);
             }
+            numbers.Add(i3);
 
             int i4 = rnd.Next(0, 10);
-            while (i4 == i1 || i4 == i2 || i4 ==i3)
+            while (numbers.Contains(i4))
             {
                 i4 = rnd.Next(0, 10);
             }
-
-            numbers.Add(i1);
-            numbers.Add(i2);
-            numbers.Add(i3);
             numbers.Add(i4);
+
+            int i5 = rnd.Next(0, 10);
+            while (numbers.Contains(i5))
+            {
+                i5 = rnd.Next(0, 10);
+            }
+            numbers.Add(i5);
+
+            int i6 = rnd.Next(0, 10);
+            while (numbers.Contains(i6))
+            {
+                i6 = rnd.Next(0, 10);
+            }
+            numbers.Add(i6);
+
+            int i7 = rnd.Next(0, 10);
+            while (numbers.Contains(i7))
+            {
+                i7 = rnd.Next(0, 10);
+            }
+            numbers.Add(i7);
+
+            int i8 = rnd.Next(0, 10);
+            while (numbers.Contains(i8))
+            {
+                i8 = rnd.Next(0, 10);
+            }
+            numbers.Add(i8);
+
+            int i9 = rnd.Next(0, 10);
+            while (numbers.Contains(i9))
+            {
+                i9 = rnd.Next(0, 10);
+            }
+            numbers.Add(i9);
+
+            int i10 = rnd.Next(0, 10);
+            while (numbers.Contains(i10))
+            {
+                i10 = rnd.Next(0, 10);
+            }
+            numbers.Add(i10);
+
             string s1 = i1.ToString();
             string s2 = i2.ToString();
             string s3 = i3.ToString();
             string s4 = i4.ToString();
+            string s5 = i5.ToString();
+            string s6 = i6.ToString();
+            string s7 = i7.ToString();
+            string s8 = i8.ToString();
+            string s9 = i9.ToString();
+            string s10 = i10.ToString();
 
-            return s1 + s2 + s3 + s4;
+            return s1 + s2 + s3 + s4 + s5 + s6 + s7 + s8 + s9 + s10;
         }
     }
 }
