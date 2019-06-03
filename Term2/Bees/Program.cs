@@ -152,7 +152,7 @@ namespace Bees
             foreach (Bee i in Bees)
             {
                 float beesize = Bees[i.getBeeSize()];
-                honey = days * beesize * 0.2f;
+                honey += days * beesize * 0.2f;
             }
             return honey;
         }
