@@ -3,8 +3,7 @@ using Classes;
 
 namespace Tests
 {
-    [TestFixture]
-    public class ClassesTests
+     public class ClassesTests
     {
         Student student;
         Staff staff;
