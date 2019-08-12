@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unit Tests", "Unit Tests\Unit Tests.csproj", "{C379F5E4-F209-4BFF-99F5-9A55EE6E6903}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes", "Classes\Classes.csproj", "{3D06078D-6E55-4183-81EB-F126B4EF19A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassesTests", "ClassesTests\ClassesTests.csproj", "{2E89033D-91D6-4FDE-AE84-DE5BF98176E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C379F5E4-F209-4BFF-99F5-9A55EE6E6903}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C379F5E4-F209-4BFF-99F5-9A55EE6E6903}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C379F5E4-F209-4BFF-99F5-9A55EE6E6903}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C379F5E4-F209-4BFF-99F5-9A55EE6E6903}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D06078D-6E55-4183-81EB-F126B4EF19A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D06078D-6E55-4183-81EB-F126B4EF19A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D06078D-6E55-4183-81EB-F126B4EF19A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D06078D-6E55-4183-81EB-F126B4EF19A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E89033D-91D6-4FDE-AE84-DE5BF98176E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E89033D-91D6-4FDE-AE84-DE5BF98176E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E89033D-91D6-4FDE-AE84-DE5BF98176E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E89033D-91D6-4FDE-AE84-DE5BF98176E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66901C1D-1ECB-4644-A124-284E40A228E9}
+	EndGlobalSection
+EndGlobal
