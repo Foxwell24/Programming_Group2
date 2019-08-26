@@ -54,6 +54,9 @@ namespace Challenge1Practice
         //return the first occurring of those.
         public char MostCommonLetter(string input)
         {
+            char[] chars = input.ToCharArray();
+
+
             throw new NotImplementedException();
         }
 
