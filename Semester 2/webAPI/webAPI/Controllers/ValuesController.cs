@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using webAPI.Models;
 
 namespace webAPI.Controllers
 {
@@ -10,27 +11,34 @@ namespace webAPI.Controllers
     [ApiController]
     public class ValuesController : ControllerBase
     {
-        List<string> MockDB = new List<string> { "PharLap", "Potatooo", "Cold", "Bob", "Joe" };
+        List<Horse> MockDB = new List<Horse> {
+            new Horse("PharLap", "Red"),
+            new Horse("Potatooo", "Blue"),
+            new Horse("Cold", "Oranger"),
+            new Horse("Bob", "Peache"),
+            new Horse("Joe", "color")
+        };
 
         // GET api/values
         [HttpGet]
-        public ActionResult<IEnumerable<string>> Get()
+        public ActionResult<IEnumerable<Horse>> Get()
         {
             return MockDB.ToArray();
         }
 
         // GET api/values/5
         [HttpGet("{id}")]
-        public ActionResult<string> Get(int id)
+        public ActionResult<Horse> Get(int id)
         {
             return MockDB[id];
         }
 
         // POST api/values
         [HttpPost]
-        public void Post([FromBody] string value)
+        public ActionResult<string> Post([FromBody] Horse value)
         {
             MockDB.Add(value);
+            return $"{value.name} added";
         }
 
         // PUT api/values/5
